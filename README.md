@@ -39,7 +39,7 @@ While traditional tools provide accurate but chaotic raw transcripts, InstantFlo
 We actively share our development workflow, product updates, and productivity insights across the web. Follow us to stay updated and join the conversation:
 
 * **📺 YouTube Official Channel:** [InstantFlow | 極客流](https://www.youtube.com/@InstantFlow_Official) — Watch InstantFlow in action, including complete workflow walkthroughs and efficiency benchmark videos.
-* **💼 LinkedIn Professional Updates:** [NovaFlow Labs / Joanne](https://www.linkedin.com/in/instantflow-joanne/) — For corporate automation insights, MAS architecture overviews, and B2B productivity discussions.
+* **💼 LinkedIn Professional Updates:** [InstantFlow](https://www.linkedin.com/in/instantflow-joanne/) — For corporate automation insights, MAS architecture overviews, and B2B productivity discussions.
 * **🐦 X (Formerly Twitter):** [@InstantFlow | 極客流](https://x.com/StockflowA7798) — Fast, raw tech updates, release changelogs, and independent developer notes.
 * **🧵 Threads Community:** [@instantflow_net](https://www.threads.com/@instantflow_net) — Daily thoughts on building independent software, productivity hacks, and behind-the-scenes stories.
 
