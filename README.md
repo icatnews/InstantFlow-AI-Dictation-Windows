@@ -19,7 +19,7 @@ While traditional tools provide accurate but chaotic raw transcripts, InstantFlo
 
 ## 🖼️ Visual Breakthrough: Raw Input vs. InstantFlow Format
 
-![InstantFlow Format Mode Comparison](Gemini_Generated_Image_wcrmvwwcrmvwwcrm.jpg)
+![InstantFlow Format Mode Comparison](InstantFlow_Global_Product_Matrix.png)
 
 > **💡 Developer's Note:** We respect and embrace existing tools, but we believe transcription is only the first 90% of the work. InstantFlow finishes the final, most crucial 10%—the formatting—instantly saving you hours of manual editing time every single week.
 
