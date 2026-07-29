@@ -1,4 +1,4 @@
-# InstantFlow™ AI Dictation | Standalone Windows Companion by NovaFlow Labs
+# InstantFlow™ AI Dictation | Standalone Windows & Mac Companion by NovaFlow Labs
 
 ![](https://img.shields.io/badge/License-Buyout-gold?style=flat-for-the-badge)
 ![](https://img.shields.io/badge/Platform-Windows%20(Live)%20%7C%20macOS%20(Coming%20Soon)-blue?style=flat-for-the-badge)
